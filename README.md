@@ -1,2 +1,2 @@
 # Software-Lab
-2nd year 4th sem
+Software lab for devops in second year.
